@@ -1,0 +1,41 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #ffffff; /* Grey background for the body */
+    margin: 0; /* Remove default margin */
+    padding-bottom: 50px; /* Adjust padding to accommodate the footer */
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.search-container {
+    margin-bottom: 10px;
+}
+
+#searchInput {
+    margin: 0% 25%;
+    padding: 8px;
+    width:50%; /* Adjust width as needed */
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    padding: 5px;
+    background-color: #e043b9;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
