@@ -5,7 +5,7 @@
 body {
     background-color: #ffffff; /* Grey background for the body */
     margin: 0; /* Remove default margin */
-    padding-bottom: 50px; /* Adjust padding to accommodate the footer */
+    padding-bottom: 0px; /* Adjust padding to accommodate the footer */
 }
 .calculator {
     width: 300px;
